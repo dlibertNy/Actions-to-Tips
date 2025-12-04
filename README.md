@@ -2,14 +2,14 @@
 Chrome Extension for SOPs
 A professional workflow capture system that creates comprehensive SOP documents with embedded video demonstrations in Google Drive.
 
-***Add video editing capabilities
+***Video editing capabilities
 
-***Implement timestamp markers in videos
+***Timestamp markers in videos
 
-***Add collaboration features
+***Collaboration features
 
-***Include templates for different SOP types
+***Templates for different SOP types
 
-***Add automatic naming conventions
+***Automatic naming conventions
 
 ***Implement version control for SOPs
